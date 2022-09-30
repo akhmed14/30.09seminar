@@ -1,0 +1,15 @@
+C:\Users\rseym\OneDrive\Рабочий стол\C#\Zal\obj\Debug\net6.0\Zal.csproj.AssemblyReference.cache
+C:\Users\rseym\OneDrive\Рабочий стол\C#\Zal\obj\Debug\net6.0\Zal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rseym\OneDrive\Рабочий стол\C#\Zal\obj\Debug\net6.0\Zal.AssemblyInfoInputs.cache
+C:\Users\rseym\OneDrive\Рабочий стол\C#\Zal\obj\Debug\net6.0\Zal.AssemblyInfo.cs
+C:\Users\rseym\OneDrive\Рабочий стол\C#\Zal\obj\Debug\net6.0\Zal.csproj.CoreCompileInputs.cache
+C:\Users\rseym\OneDrive\Рабочий стол\C#\Zal\bin\Debug\net6.0\Zal.exe
+C:\Users\rseym\OneDrive\Рабочий стол\C#\Zal\bin\Debug\net6.0\Zal.deps.json
+C:\Users\rseym\OneDrive\Рабочий стол\C#\Zal\bin\Debug\net6.0\Zal.runtimeconfig.json
+C:\Users\rseym\OneDrive\Рабочий стол\C#\Zal\bin\Debug\net6.0\Zal.dll
+C:\Users\rseym\OneDrive\Рабочий стол\C#\Zal\bin\Debug\net6.0\Zal.pdb
+C:\Users\rseym\OneDrive\Рабочий стол\C#\Zal\obj\Debug\net6.0\Zal.dll
+C:\Users\rseym\OneDrive\Рабочий стол\C#\Zal\obj\Debug\net6.0\refint\Zal.dll
+C:\Users\rseym\OneDrive\Рабочий стол\C#\Zal\obj\Debug\net6.0\Zal.pdb
+C:\Users\rseym\OneDrive\Рабочий стол\C#\Zal\obj\Debug\net6.0\Zal.genruntimeconfig.cache
+C:\Users\rseym\OneDrive\Рабочий стол\C#\Zal\obj\Debug\net6.0\ref\Zal.dll

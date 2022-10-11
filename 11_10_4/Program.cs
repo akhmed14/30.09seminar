@@ -13,6 +13,16 @@
 //     arr[i] = rand.Next(0,2);
 // }
 // Console.WriteLine(string.Join(", ", arr)); 
+void PrintArray(int[] col)
+{
+    int count = col.Length;
+    int position = 0;
+    while (position < count)
+    {
+        Console.Write($"{col[position]} ");
+        position++;
+    }
+}
 
 void FillArray(int[] collection)
 {
@@ -21,13 +31,15 @@ void FillArray(int[] collection)
     while (index < length)
     {
         collection[index] = new Random().Next(0, 2);
-        Console.Write($"{collection[index]} ");
+    
         index++;
     }
 }
 
 int[] arr = new int[8];
 FillArray(arr);
+PrintArray(arr);
+
 
 
 

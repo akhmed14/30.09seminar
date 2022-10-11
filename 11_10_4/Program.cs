@@ -5,14 +5,6 @@
 
 
 
-// int n = 8;
-// int[] arr = new int[n];
-// Random rand = new Random();
-// for (int i = 0; i < arr.Length; i++)
-// { 
-//     arr[i] = rand.Next(0,2);
-// }
-// Console.WriteLine(string.Join(", ", arr)); 
 void PrintArray(int[] col)
 {
     int count = col.Length;
@@ -31,11 +23,9 @@ void FillArray(int[] collection)
     while (index < length)
     {
         collection[index] = new Random().Next(0, 2);
-    
         index++;
     }
 }
-
 int[] arr = new int[8];
 FillArray(arr);
 PrintArray(arr);

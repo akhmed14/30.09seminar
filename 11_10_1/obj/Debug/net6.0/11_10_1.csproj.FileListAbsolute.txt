@@ -1,0 +1,15 @@
+D:\mdp\C#\30.09seminar\11_10_1\bin\Debug\net6.0\11_10_1.exe
+D:\mdp\C#\30.09seminar\11_10_1\bin\Debug\net6.0\11_10_1.deps.json
+D:\mdp\C#\30.09seminar\11_10_1\bin\Debug\net6.0\11_10_1.runtimeconfig.json
+D:\mdp\C#\30.09seminar\11_10_1\bin\Debug\net6.0\11_10_1.dll
+D:\mdp\C#\30.09seminar\11_10_1\bin\Debug\net6.0\11_10_1.pdb
+D:\mdp\C#\30.09seminar\11_10_1\obj\Debug\net6.0\11_10_1.csproj.AssemblyReference.cache
+D:\mdp\C#\30.09seminar\11_10_1\obj\Debug\net6.0\11_10_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\mdp\C#\30.09seminar\11_10_1\obj\Debug\net6.0\11_10_1.AssemblyInfoInputs.cache
+D:\mdp\C#\30.09seminar\11_10_1\obj\Debug\net6.0\11_10_1.AssemblyInfo.cs
+D:\mdp\C#\30.09seminar\11_10_1\obj\Debug\net6.0\11_10_1.csproj.CoreCompileInputs.cache
+D:\mdp\C#\30.09seminar\11_10_1\obj\Debug\net6.0\11_10_1.dll
+D:\mdp\C#\30.09seminar\11_10_1\obj\Debug\net6.0\refint\11_10_1.dll
+D:\mdp\C#\30.09seminar\11_10_1\obj\Debug\net6.0\11_10_1.pdb
+D:\mdp\C#\30.09seminar\11_10_1\obj\Debug\net6.0\11_10_1.genruntimeconfig.cache
+D:\mdp\C#\30.09seminar\11_10_1\obj\Debug\net6.0\ref\11_10_1.dll

@@ -1,0 +1,15 @@
+D:\mdp\C#\30.09seminar\HW1\bin\Debug\net6.0\HW1.exe
+D:\mdp\C#\30.09seminar\HW1\bin\Debug\net6.0\HW1.deps.json
+D:\mdp\C#\30.09seminar\HW1\bin\Debug\net6.0\HW1.runtimeconfig.json
+D:\mdp\C#\30.09seminar\HW1\bin\Debug\net6.0\HW1.dll
+D:\mdp\C#\30.09seminar\HW1\bin\Debug\net6.0\HW1.pdb
+D:\mdp\C#\30.09seminar\HW1\obj\Debug\net6.0\HW1.csproj.AssemblyReference.cache
+D:\mdp\C#\30.09seminar\HW1\obj\Debug\net6.0\HW1.GeneratedMSBuildEditorConfig.editorconfig
+D:\mdp\C#\30.09seminar\HW1\obj\Debug\net6.0\HW1.AssemblyInfoInputs.cache
+D:\mdp\C#\30.09seminar\HW1\obj\Debug\net6.0\HW1.AssemblyInfo.cs
+D:\mdp\C#\30.09seminar\HW1\obj\Debug\net6.0\HW1.csproj.CoreCompileInputs.cache
+D:\mdp\C#\30.09seminar\HW1\obj\Debug\net6.0\HW1.dll
+D:\mdp\C#\30.09seminar\HW1\obj\Debug\net6.0\refint\HW1.dll
+D:\mdp\C#\30.09seminar\HW1\obj\Debug\net6.0\HW1.pdb
+D:\mdp\C#\30.09seminar\HW1\obj\Debug\net6.0\HW1.genruntimeconfig.cache
+D:\mdp\C#\30.09seminar\HW1\obj\Debug\net6.0\ref\HW1.dll

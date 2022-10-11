@@ -1,0 +1,15 @@
+D:\mdp\C#\30.09seminar\11_10_2\obj\Debug\net6.0\11_10_2.csproj.AssemblyReference.cache
+D:\mdp\C#\30.09seminar\11_10_2\obj\Debug\net6.0\11_10_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\mdp\C#\30.09seminar\11_10_2\obj\Debug\net6.0\11_10_2.AssemblyInfoInputs.cache
+D:\mdp\C#\30.09seminar\11_10_2\obj\Debug\net6.0\11_10_2.AssemblyInfo.cs
+D:\mdp\C#\30.09seminar\11_10_2\obj\Debug\net6.0\11_10_2.csproj.CoreCompileInputs.cache
+D:\mdp\C#\30.09seminar\11_10_2\bin\Debug\net6.0\11_10_2.exe
+D:\mdp\C#\30.09seminar\11_10_2\bin\Debug\net6.0\11_10_2.deps.json
+D:\mdp\C#\30.09seminar\11_10_2\bin\Debug\net6.0\11_10_2.runtimeconfig.json
+D:\mdp\C#\30.09seminar\11_10_2\bin\Debug\net6.0\11_10_2.dll
+D:\mdp\C#\30.09seminar\11_10_2\bin\Debug\net6.0\11_10_2.pdb
+D:\mdp\C#\30.09seminar\11_10_2\obj\Debug\net6.0\11_10_2.dll
+D:\mdp\C#\30.09seminar\11_10_2\obj\Debug\net6.0\refint\11_10_2.dll
+D:\mdp\C#\30.09seminar\11_10_2\obj\Debug\net6.0\11_10_2.pdb
+D:\mdp\C#\30.09seminar\11_10_2\obj\Debug\net6.0\11_10_2.genruntimeconfig.cache
+D:\mdp\C#\30.09seminar\11_10_2\obj\Debug\net6.0\ref\11_10_2.dll
